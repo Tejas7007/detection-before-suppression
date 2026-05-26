@@ -14,6 +14,11 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
+# Force Type 42 (TrueType) fonts — avoids Type 3 bitmap fonts that some
+# proceedings pipelines reject.
+matplotlib.rcParams["pdf.fonttype"] = 42
+matplotlib.rcParams["ps.fonttype"] = 42
+
 OUT = "figures/emnlp"
 os.makedirs(OUT, exist_ok=True)
 plt.rcParams.update({"font.size": 11, "axes.titlesize": 12.5, "axes.labelsize": 11.5,
