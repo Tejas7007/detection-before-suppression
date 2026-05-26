@@ -15,7 +15,6 @@ scripts/    Experiment scripts (each self-contained, single-GPU)
 src/        IOI / greater-than / SVA dataset generation (no external data needed)
 results/    Raw JSON outputs from every experiment (inputs to all figures/tables)
 figures/    Generated figures used in the paper (main text + appendix)
-paper/      LaTeX source of the submission
 ```
 
 ## Requirements
@@ -95,15 +94,17 @@ The following author-trained checkpoints are released on an anonymized host to
 support full reproduction (the analyzed Pythia/PolyPythias/Stanford/OLMo models
 are already public and are not re-hosted here):
 
-- **Retrained Pythia-160M (seed 42)** — dense checkpoints spanning steps 0–10000
-  (every 10 steps to 100, every 50 to 3000, every 200 to 10000), used for the
-  path-patching and component-fluctuation analyses (Appendix C, F).
-- **From-scratch GPT-2-style models** — WikiText-103 and OpenWebText runs with
-  injected IOI examples (§6), used for the controlled-dip and from-scratch S2
-  intervention results.
+- **Retrained Pythia-160M (seed 42)** — 103 dense checkpoints spanning steps
+  0–10000 (every 50 steps to 3000, every 200 thereafter), used for the
+  component-fluctuation analysis (Appendix F):
+  https://huggingface.co/anonymous-research-sub/pythia-160m-retrained-seed42
+- **From-scratch GPT-2-style models** (WikiText-103 / OpenWebText, §6) are not
+  re-hosted: they are regenerable from `emnlp_trained_model_ioi.py`,
+  `emnlp_train_openwebtext.py`, and `emnlp_controlled_dip.py`, and their outputs
+  are included in `results/`.
 
-> Anonymized checkpoint host: `https://huggingface.co/anonymous-research-sub`
-> (placeholder; replace with the anonymous HF namespace used for submission).
+All analyzed base models (Pythia, PolyPythias, Stanford GPT-2, OLMo) are already
+public and are linked above; they are not re-hosted.
 
 ## License
 
