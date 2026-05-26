@@ -1,0 +1,770 @@
+{
+  "step_1000": {
+    "n_ioi": 450,
+    "n_control": 450,
+    "END": {
+      "layer_0": {
+        "train_acc": 0.6828,
+        "test_acc": 0.59,
+        "test_std": 0.0194
+      },
+      "layer_1": {
+        "train_acc": 0.7439,
+        "test_acc": 0.6278,
+        "test_std": 0.0208
+      },
+      "layer_2": {
+        "train_acc": 0.7728,
+        "test_acc": 0.6022,
+        "test_std": 0.0167
+      },
+      "layer_3": {
+        "train_acc": 0.7914,
+        "test_acc": 0.6044,
+        "test_std": 0.0065
+      },
+      "layer_4": {
+        "train_acc": 0.8097,
+        "test_acc": 0.61,
+        "test_std": 0.0215
+      },
+      "layer_5": {
+        "train_acc": 0.9542,
+        "test_acc": 0.8889,
+        "test_std": 0.0183
+      },
+      "layer_6": {
+        "train_acc": 0.9592,
+        "test_acc": 0.8967,
+        "test_std": 0.0134
+      },
+      "layer_7": {
+        "train_acc": 0.9767,
+        "test_acc": 0.9344,
+        "test_std": 0.0142
+      },
+      "layer_8": {
+        "train_acc": 0.9789,
+        "test_acc": 0.9256,
+        "test_std": 0.0171
+      },
+      "layer_9": {
+        "train_acc": 0.9831,
+        "test_acc": 0.9267,
+        "test_std": 0.0191
+      },
+      "layer_10": {
+        "train_acc": 0.9864,
+        "test_acc": 0.9311,
+        "test_std": 0.0143
+      },
+      "layer_11": {
+        "train_acc": 0.9897,
+        "test_acc": 0.93,
+        "test_std": 0.0134
+      }
+    },
+    "S2": {
+      "layer_0": {
+        "train_acc": 0.8956,
+        "test_acc": 0.89,
+        "test_std": 0.0266
+      },
+      "layer_1": {
+        "train_acc": 0.9072,
+        "test_acc": 0.8878,
+        "test_std": 0.0259
+      },
+      "layer_2": {
+        "train_acc": 0.9178,
+        "test_acc": 0.8989,
+        "test_std": 0.0229
+      },
+      "layer_3": {
+        "train_acc": 0.9294,
+        "test_acc": 0.8967,
+        "test_std": 0.0237
+      },
+      "layer_4": {
+        "train_acc": 1.0,
+        "test_acc": 0.9911,
+        "test_std": 0.0075
+      },
+      "layer_5": {
+        "train_acc": 1.0,
+        "test_acc": 0.9933,
+        "test_std": 0.0065
+      },
+      "layer_6": {
+        "train_acc": 1.0,
+        "test_acc": 0.9922,
+        "test_std": 0.0067
+      },
+      "layer_7": {
+        "train_acc": 1.0,
+        "test_acc": 0.9911,
+        "test_std": 0.0057
+      },
+      "layer_8": {
+        "train_acc": 1.0,
+        "test_acc": 0.99,
+        "test_std": 0.0065
+      },
+      "layer_9": {
+        "train_acc": 1.0,
+        "test_acc": 0.9933,
+        "test_std": 0.0042
+      },
+      "layer_10": {
+        "train_acc": 1.0,
+        "test_acc": 0.9933,
+        "test_std": 0.0054
+      },
+      "layer_11": {
+        "train_acc": 1.0,
+        "test_acc": 0.9911,
+        "test_std": 0.0075
+      }
+    }
+  },
+  "step_2000": {
+    "n_ioi": 450,
+    "n_control": 450,
+    "END": {
+      "layer_0": {
+        "train_acc": 0.6658,
+        "test_acc": 0.52,
+        "test_std": 0.0291
+      },
+      "layer_1": {
+        "train_acc": 0.7558,
+        "test_acc": 0.6,
+        "test_std": 0.0208
+      },
+      "layer_2": {
+        "train_acc": 0.7964,
+        "test_acc": 0.6311,
+        "test_std": 0.0434
+      },
+      "layer_3": {
+        "train_acc": 0.8847,
+        "test_acc": 0.7189,
+        "test_std": 0.0303
+      },
+      "layer_4": {
+        "train_acc": 0.9247,
+        "test_acc": 0.7678,
+        "test_std": 0.0532
+      },
+      "layer_5": {
+        "train_acc": 0.9844,
+        "test_acc": 0.92,
+        "test_std": 0.0237
+      },
+      "layer_6": {
+        "train_acc": 0.9847,
+        "test_acc": 0.9178,
+        "test_std": 0.0271
+      },
+      "layer_7": {
+        "train_acc": 0.9911,
+        "test_acc": 0.9144,
+        "test_std": 0.0213
+      },
+      "layer_8": {
+        "train_acc": 0.9922,
+        "test_acc": 0.9133,
+        "test_std": 0.0125
+      },
+      "layer_9": {
+        "train_acc": 0.9961,
+        "test_acc": 0.9133,
+        "test_std": 0.0237
+      },
+      "layer_10": {
+        "train_acc": 0.9986,
+        "test_acc": 0.9144,
+        "test_std": 0.025
+      },
+      "layer_11": {
+        "train_acc": 0.9997,
+        "test_acc": 0.9311,
+        "test_std": 0.0194
+      }
+    },
+    "S2": {
+      "layer_0": {
+        "train_acc": 0.9114,
+        "test_acc": 0.8944,
+        "test_std": 0.0281
+      },
+      "layer_1": {
+        "train_acc": 0.9961,
+        "test_acc": 0.98,
+        "test_std": 0.0075
+      },
+      "layer_2": {
+        "train_acc": 0.9986,
+        "test_acc": 0.9811,
+        "test_std": 0.0044
+      },
+      "layer_3": {
+        "train_acc": 0.9997,
+        "test_acc": 0.9789,
+        "test_std": 0.0096
+      },
+      "layer_4": {
+        "train_acc": 1.0,
+        "test_acc": 0.9889,
+        "test_std": 0.0035
+      },
+      "layer_5": {
+        "train_acc": 1.0,
+        "test_acc": 0.9878,
+        "test_std": 0.0074
+      },
+      "layer_6": {
+        "train_acc": 1.0,
+        "test_acc": 0.9833,
+        "test_std": 0.007
+      },
+      "layer_7": {
+        "train_acc": 1.0,
+        "test_acc": 0.9822,
+        "test_std": 0.0054
+      },
+      "layer_8": {
+        "train_acc": 1.0,
+        "test_acc": 0.9844,
+        "test_std": 0.0074
+      },
+      "layer_9": {
+        "train_acc": 1.0,
+        "test_acc": 0.9856,
+        "test_std": 0.0083
+      },
+      "layer_10": {
+        "train_acc": 1.0,
+        "test_acc": 0.9833,
+        "test_std": 0.0061
+      },
+      "layer_11": {
+        "train_acc": 1.0,
+        "test_acc": 0.9789,
+        "test_std": 0.0042
+      }
+    }
+  },
+  "step_3000": {
+    "n_ioi": 450,
+    "n_control": 450,
+    "END": {
+      "layer_0": {
+        "train_acc": 0.6486,
+        "test_acc": 0.5211,
+        "test_std": 0.0242
+      },
+      "layer_1": {
+        "train_acc": 0.7525,
+        "test_acc": 0.5933,
+        "test_std": 0.0147
+      },
+      "layer_2": {
+        "train_acc": 0.9019,
+        "test_acc": 0.7844,
+        "test_std": 0.028
+      },
+      "layer_3": {
+        "train_acc": 0.9817,
+        "test_acc": 0.9111,
+        "test_std": 0.0111
+      },
+      "layer_4": {
+        "train_acc": 0.995,
+        "test_acc": 0.9667,
+        "test_std": 0.0176
+      },
+      "layer_5": {
+        "train_acc": 1.0,
+        "test_acc": 0.9844,
+        "test_std": 0.0042
+      },
+      "layer_6": {
+        "train_acc": 1.0,
+        "test_acc": 0.9744,
+        "test_std": 0.0103
+      },
+      "layer_7": {
+        "train_acc": 1.0,
+        "test_acc": 0.9744,
+        "test_std": 0.009
+      },
+      "layer_8": {
+        "train_acc": 1.0,
+        "test_acc": 0.9689,
+        "test_std": 0.0114
+      },
+      "layer_9": {
+        "train_acc": 1.0,
+        "test_acc": 0.9667,
+        "test_std": 0.0145
+      },
+      "layer_10": {
+        "train_acc": 1.0,
+        "test_acc": 0.9633,
+        "test_std": 0.0134
+      },
+      "layer_11": {
+        "train_acc": 1.0,
+        "test_acc": 0.9622,
+        "test_std": 0.0124
+      }
+    },
+    "S2": {
+      "layer_0": {
+        "train_acc": 0.9336,
+        "test_acc": 0.9089,
+        "test_std": 0.0215
+      },
+      "layer_1": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_2": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_3": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_4": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_5": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_6": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_7": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_8": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_9": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_10": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_11": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      }
+    }
+  },
+  "step_5000": {
+    "n_ioi": 450,
+    "n_control": 450,
+    "END": {
+      "layer_0": {
+        "train_acc": 0.7053,
+        "test_acc": 0.5744,
+        "test_std": 0.013
+      },
+      "layer_1": {
+        "train_acc": 0.7958,
+        "test_acc": 0.6389,
+        "test_std": 0.029
+      },
+      "layer_2": {
+        "train_acc": 0.9508,
+        "test_acc": 0.8544,
+        "test_std": 0.0373
+      },
+      "layer_3": {
+        "train_acc": 0.9986,
+        "test_acc": 0.9689,
+        "test_std": 0.0125
+      },
+      "layer_4": {
+        "train_acc": 1.0,
+        "test_acc": 0.9878,
+        "test_std": 0.0065
+      },
+      "layer_5": {
+        "train_acc": 1.0,
+        "test_acc": 0.9967,
+        "test_std": 0.0027
+      },
+      "layer_6": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_7": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_8": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_9": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_10": {
+        "train_acc": 1.0,
+        "test_acc": 0.9978,
+        "test_std": 0.0027
+      },
+      "layer_11": {
+        "train_acc": 1.0,
+        "test_acc": 0.9967,
+        "test_std": 0.0044
+      }
+    },
+    "S2": {
+      "layer_0": {
+        "train_acc": 0.9467,
+        "test_acc": 0.9122,
+        "test_std": 0.0259
+      },
+      "layer_1": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_2": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_3": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_4": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_5": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_6": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_7": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_8": {
+        "train_acc": 1.0,
+        "test_acc": 0.9978,
+        "test_std": 0.0027
+      },
+      "layer_9": {
+        "train_acc": 1.0,
+        "test_acc": 0.9978,
+        "test_std": 0.0027
+      },
+      "layer_10": {
+        "train_acc": 1.0,
+        "test_acc": 0.9978,
+        "test_std": 0.0027
+      },
+      "layer_11": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      }
+    }
+  },
+  "step_10000": {
+    "n_ioi": 450,
+    "n_control": 450,
+    "END": {
+      "layer_0": {
+        "train_acc": 0.7717,
+        "test_acc": 0.6389,
+        "test_std": 0.0261
+      },
+      "layer_1": {
+        "train_acc": 0.8444,
+        "test_acc": 0.7133,
+        "test_std": 0.0301
+      },
+      "layer_2": {
+        "train_acc": 0.9747,
+        "test_acc": 0.9133,
+        "test_std": 0.0185
+      },
+      "layer_3": {
+        "train_acc": 1.0,
+        "test_acc": 0.99,
+        "test_std": 0.0124
+      },
+      "layer_4": {
+        "train_acc": 0.9989,
+        "test_acc": 0.9878,
+        "test_std": 0.0113
+      },
+      "layer_5": {
+        "train_acc": 1.0,
+        "test_acc": 0.9978,
+        "test_std": 0.0044
+      },
+      "layer_6": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_7": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_8": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_9": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_10": {
+        "train_acc": 1.0,
+        "test_acc": 0.9967,
+        "test_std": 0.0044
+      },
+      "layer_11": {
+        "train_acc": 1.0,
+        "test_acc": 0.9967,
+        "test_std": 0.0044
+      }
+    },
+    "S2": {
+      "layer_0": {
+        "train_acc": 0.9997,
+        "test_acc": 0.9733,
+        "test_std": 0.0119
+      },
+      "layer_1": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_2": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_3": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_4": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_5": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_6": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_7": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_8": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_9": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_10": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      },
+      "layer_11": {
+        "train_acc": 1.0,
+        "test_acc": 1.0,
+        "test_std": 0.0
+      }
+    }
+  },
+  "step_143000": {
+    "n_ioi": 450,
+    "n_control": 450,
+    "END": {
+      "layer_0": {
+        "train_acc": 0.6008,
+        "test_acc": 0.4533,
+        "test_std": 0.0213
+      },
+      "layer_1": {
+        "train_acc": 0.8519,
+        "test_acc": 0.7789,
+        "test_std": 0.0284
+      },
+      "layer_2": {
+        "train_acc": 0.9656,
+        "test_acc": 0.9244,
+        "test_std": 0.0282
+      },
+      "layer_3": {
+        "train_acc": 0.9961,
+        "test_acc": 0.9867,
+        "test_std": 0.0125
+      },
+      "layer_4": {
+        "train_acc": 1.0,
+        "test_acc": 0.9933,
+        "test_std": 0.0065
+      },
+      "layer_5": {
+        "train_acc": 0.9989,
+        "test_acc": 0.9956,
+        "test_std": 0.0065
+      },
+      "layer_6": {
+        "train_acc": 0.9989,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_7": {
+        "train_acc": 0.9989,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_8": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_9": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_10": {
+        "train_acc": 1.0,
+        "test_acc": 0.9978,
+        "test_std": 0.0027
+      },
+      "layer_11": {
+        "train_acc": 1.0,
+        "test_acc": 0.9967,
+        "test_std": 0.0027
+      }
+    },
+    "S2": {
+      "layer_0": {
+        "train_acc": 1.0,
+        "test_acc": 0.9978,
+        "test_std": 0.0027
+      },
+      "layer_1": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_2": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_3": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_4": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_5": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_6": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_7": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_8": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_9": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_10": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      },
+      "layer_11": {
+        "train_acc": 1.0,
+        "test_acc": 0.9989,
+        "test_std": 0.0022
+      }
+    }
+  }
+}

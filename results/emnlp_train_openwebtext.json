@@ -1,0 +1,11 @@
+{
+  "seed42": {
+    "seed": 42,
+    "n_params": 51082752,
+    "n_steps": 200000,
+    "tokens_processed": 1638400000,
+    "docs_processed": 1451850,
+    "final_loss": 5.432233339548111,
+    "elapsed_hours": 12.61548696200053
+  }
+}

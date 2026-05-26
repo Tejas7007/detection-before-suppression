@@ -1,0 +1,134 @@
+{
+  "baseline": {
+    "ld": -0.7526,
+    "acc": 0.3167
+  },
+  "remove_dup_direction_0.5x": {
+    "ld": -0.8065,
+    "acc": 0.2967
+  },
+  "remove_dup_direction_1.0x": {
+    "ld": -0.8589,
+    "acc": 0.29
+  },
+  "remove_dup_direction_2.0x": {
+    "ld": -0.9536,
+    "acc": 0.27
+  },
+  "remove_dup_direction_4.0x": {
+    "ld": -1.0722,
+    "acc": 0.23
+  },
+  "remove_ortho_direction_0.5x": {
+    "ld": -0.7461,
+    "acc": 0.32
+  },
+  "remove_ortho_direction_1.0x": {
+    "ld": -0.7386,
+    "acc": 0.32
+  },
+  "remove_ortho_direction_2.0x": {
+    "ld": -0.7211,
+    "acc": 0.32
+  },
+  "remove_ortho_direction_4.0x": {
+    "ld": -0.6779,
+    "acc": 0.32
+  },
+  "remove_shuffled_direction_0.5x": {
+    "ld": -0.7528,
+    "acc": 0.3167
+  },
+  "remove_shuffled_direction_1.0x": {
+    "ld": -0.753,
+    "acc": 0.3167
+  },
+  "remove_shuffled_direction_2.0x": {
+    "ld": -0.7532,
+    "acc": 0.3133
+  },
+  "remove_shuffled_direction_4.0x": {
+    "ld": -0.7536,
+    "acc": 0.3133
+  },
+  "remove_random_0_0.5x": {
+    "ld": -0.7594,
+    "acc": 0.3067
+  },
+  "remove_random_0_1.0x": {
+    "ld": -0.7652,
+    "acc": 0.3067
+  },
+  "remove_random_0_2.0x": {
+    "ld": -0.7733,
+    "acc": 0.3067
+  },
+  "remove_random_0_4.0x": {
+    "ld": -0.7755,
+    "acc": 0.3067
+  },
+  "remove_random_1_0.5x": {
+    "ld": -0.754,
+    "acc": 0.3167
+  },
+  "remove_random_1_1.0x": {
+    "ld": -0.755,
+    "acc": 0.3167
+  },
+  "remove_random_1_2.0x": {
+    "ld": -0.7558,
+    "acc": 0.32
+  },
+  "remove_random_1_4.0x": {
+    "ld": -0.7529,
+    "acc": 0.32
+  },
+  "remove_random_2_0.5x": {
+    "ld": -0.7525,
+    "acc": 0.3167
+  },
+  "remove_random_2_1.0x": {
+    "ld": -0.7508,
+    "acc": 0.3167
+  },
+  "remove_random_2_2.0x": {
+    "ld": -0.7429,
+    "acc": 0.32
+  },
+  "remove_random_2_4.0x": {
+    "ld": -0.7113,
+    "acc": 0.32
+  },
+  "remove_random_3_0.5x": {
+    "ld": -0.7349,
+    "acc": 0.32
+  },
+  "remove_random_3_1.0x": {
+    "ld": -0.716,
+    "acc": 0.32
+  },
+  "remove_random_3_2.0x": {
+    "ld": -0.6754,
+    "acc": 0.33
+  },
+  "remove_random_3_4.0x": {
+    "ld": -0.5879,
+    "acc": 0.3533
+  },
+  "remove_random_4_0.5x": {
+    "ld": -0.7499,
+    "acc": 0.3167
+  },
+  "remove_random_4_1.0x": {
+    "ld": -0.7463,
+    "acc": 0.32
+  },
+  "remove_random_4_2.0x": {
+    "ld": -0.7368,
+    "acc": 0.32
+  },
+  "remove_random_4_4.0x": {
+    "ld": -0.7094,
+    "acc": 0.33
+  }
+}

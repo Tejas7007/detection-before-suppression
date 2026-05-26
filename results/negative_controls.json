@@ -1,0 +1,10 @@
+{
+  "step": 2000,
+  "baseline_ld": -0.7526,
+  "real_intervention": 0.19,
+  "random_direction": 0.0785,
+  "wrong_position": -0.7526,
+  "real_change": 0.9426,
+  "random_change": 0.8312,
+  "wrong_pos_change": 0.0
+}

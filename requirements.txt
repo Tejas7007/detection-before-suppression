@@ -1,0 +1,6 @@
+torch
+transformers
+transformer-lens
+scikit-learn
+matplotlib
+numpy

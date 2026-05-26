@@ -1,0 +1,588 @@
+{
+  "seed1": {
+    "model": "EleutherAI/pythia-160m-seed1",
+    "checkpoints": {
+      "step_0": {
+        "accuracy": 0.4967,
+        "mean_ld": -0.0136,
+        "pct_s_preferred": 0.5033,
+        "n_examples": 300
+      },
+      "step_512": {
+        "accuracy": 0.4533,
+        "mean_ld": -0.0534,
+        "pct_s_preferred": 0.5467,
+        "n_examples": 300
+      },
+      "step_1000": {
+        "accuracy": 0.3767,
+        "mean_ld": -0.404,
+        "pct_s_preferred": 0.6233,
+        "n_examples": 300
+      },
+      "step_2000": {
+        "accuracy": 0.3233,
+        "mean_ld": -0.6724,
+        "pct_s_preferred": 0.6767,
+        "n_examples": 300
+      },
+      "step_3000": {
+        "accuracy": 0.7967,
+        "mean_ld": 1.162,
+        "pct_s_preferred": 0.2033,
+        "n_examples": 300
+      },
+      "step_5000": {
+        "accuracy": 0.8767,
+        "mean_ld": 1.9446,
+        "pct_s_preferred": 0.1233,
+        "n_examples": 300
+      },
+      "step_8000": {
+        "accuracy": 0.9967,
+        "mean_ld": 2.8696,
+        "pct_s_preferred": 0.0033,
+        "n_examples": 300
+      },
+      "step_10000": {
+        "accuracy": 0.9567,
+        "mean_ld": 3.242,
+        "pct_s_preferred": 0.0433,
+        "n_examples": 300
+      },
+      "step_33000": {
+        "accuracy": 0.9967,
+        "mean_ld": 3.6369,
+        "pct_s_preferred": 0.0033,
+        "n_examples": 300
+      },
+      "step_143000": {
+        "accuracy": 1.0,
+        "mean_ld": 4.2081,
+        "pct_s_preferred": 0.0,
+        "n_examples": 300
+      }
+    }
+  },
+  "seed3": {
+    "model": "EleutherAI/pythia-160m-seed3",
+    "checkpoints": {
+      "step_0": {
+        "accuracy": 0.5167,
+        "mean_ld": 0.0162,
+        "pct_s_preferred": 0.4833,
+        "n_examples": 300
+      },
+      "step_512": {
+        "accuracy": 0.48,
+        "mean_ld": -0.0412,
+        "pct_s_preferred": 0.52,
+        "n_examples": 300
+      },
+      "step_1000": {
+        "accuracy": 0.3133,
+        "mean_ld": -0.4702,
+        "pct_s_preferred": 0.6867,
+        "n_examples": 300
+      },
+      "step_2000": {
+        "accuracy": 0.18,
+        "mean_ld": -1.3545,
+        "pct_s_preferred": 0.82,
+        "n_examples": 300
+      },
+      "step_3000": {
+        "accuracy": 0.73,
+        "mean_ld": 0.9548,
+        "pct_s_preferred": 0.27,
+        "n_examples": 300
+      },
+      "step_5000": {
+        "accuracy": 0.9433,
+        "mean_ld": 1.9963,
+        "pct_s_preferred": 0.0567,
+        "n_examples": 300
+      },
+      "step_8000": {
+        "accuracy": 0.9933,
+        "mean_ld": 3.5054,
+        "pct_s_preferred": 0.0067,
+        "n_examples": 300
+      },
+      "step_10000": {
+        "accuracy": 0.9833,
+        "mean_ld": 3.4493,
+        "pct_s_preferred": 0.0167,
+        "n_examples": 300
+      },
+      "step_33000": {
+        "accuracy": 0.9833,
+        "mean_ld": 3.4044,
+        "pct_s_preferred": 0.0167,
+        "n_examples": 300
+      },
+      "step_143000": {
+        "accuracy": 0.9933,
+        "mean_ld": 3.6774,
+        "pct_s_preferred": 0.0067,
+        "n_examples": 300
+      }
+    }
+  },
+  "seed5": {
+    "model": "EleutherAI/pythia-160m-seed5",
+    "checkpoints": {
+      "step_0": {
+        "accuracy": 0.5167,
+        "mean_ld": 0.0206,
+        "pct_s_preferred": 0.4833,
+        "n_examples": 300
+      },
+      "step_512": {
+        "accuracy": 0.4933,
+        "mean_ld": -0.0312,
+        "pct_s_preferred": 0.5067,
+        "n_examples": 300
+      },
+      "step_1000": {
+        "accuracy": 0.42,
+        "mean_ld": -0.4045,
+        "pct_s_preferred": 0.58,
+        "n_examples": 300
+      },
+      "step_2000": {
+        "accuracy": 0.3433,
+        "mean_ld": -0.7204,
+        "pct_s_preferred": 0.6567,
+        "n_examples": 300
+      },
+      "step_3000": {
+        "accuracy": 0.6133,
+        "mean_ld": 0.4926,
+        "pct_s_preferred": 0.3867,
+        "n_examples": 300
+      },
+      "step_5000": {
+        "accuracy": 0.97,
+        "mean_ld": 4.1617,
+        "pct_s_preferred": 0.03,
+        "n_examples": 300
+      },
+      "step_8000": {
+        "accuracy": 0.99,
+        "mean_ld": 3.5228,
+        "pct_s_preferred": 0.01,
+        "n_examples": 300
+      },
+      "step_10000": {
+        "accuracy": 1.0,
+        "mean_ld": 3.2648,
+        "pct_s_preferred": 0.0,
+        "n_examples": 300
+      },
+      "step_33000": {
+        "accuracy": 0.9367,
+        "mean_ld": 2.0989,
+        "pct_s_preferred": 0.0633,
+        "n_examples": 300
+      },
+      "step_143000": {
+        "accuracy": 1.0,
+        "mean_ld": 3.9979,
+        "pct_s_preferred": 0.0,
+        "n_examples": 300
+      }
+    }
+  },
+  "data-seed1": {
+    "model": "EleutherAI/pythia-160m-data-seed1",
+    "checkpoints": {
+      "step_0": {
+        "accuracy": 0.5267,
+        "mean_ld": 0.0324,
+        "pct_s_preferred": 0.4733,
+        "n_examples": 300
+      },
+      "step_512": {
+        "accuracy": 0.4933,
+        "mean_ld": -0.0275,
+        "pct_s_preferred": 0.5067,
+        "n_examples": 300
+      },
+      "step_1000": {
+        "accuracy": 0.4167,
+        "mean_ld": -0.2307,
+        "pct_s_preferred": 0.5833,
+        "n_examples": 300
+      },
+      "step_2000": {
+        "accuracy": 0.2933,
+        "mean_ld": -0.8342,
+        "pct_s_preferred": 0.7067,
+        "n_examples": 300
+      },
+      "step_3000": {
+        "accuracy": 0.7033,
+        "mean_ld": 1.0098,
+        "pct_s_preferred": 0.2967,
+        "n_examples": 300
+      },
+      "step_5000": {
+        "accuracy": 0.98,
+        "mean_ld": 4.2163,
+        "pct_s_preferred": 0.02,
+        "n_examples": 300
+      },
+      "step_8000": {
+        "accuracy": 0.9867,
+        "mean_ld": 3.3125,
+        "pct_s_preferred": 0.0133,
+        "n_examples": 300
+      },
+      "step_10000": {
+        "accuracy": 1.0,
+        "mean_ld": 3.2818,
+        "pct_s_preferred": 0.0,
+        "n_examples": 300
+      },
+      "step_33000": {
+        "accuracy": 1.0,
+        "mean_ld": 3.7618,
+        "pct_s_preferred": 0.0,
+        "n_examples": 300
+      },
+      "step_143000": {
+        "accuracy": 0.9933,
+        "mean_ld": 3.4052,
+        "pct_s_preferred": 0.0067,
+        "n_examples": 300
+      }
+    }
+  },
+  "data-seed2": {
+    "model": "EleutherAI/pythia-160m-data-seed2",
+    "checkpoints": {
+      "step_0": {
+        "accuracy": 0.5267,
+        "mean_ld": 0.0324,
+        "pct_s_preferred": 0.4733,
+        "n_examples": 300
+      },
+      "step_512": {
+        "accuracy": 0.4667,
+        "mean_ld": -0.0422,
+        "pct_s_preferred": 0.5333,
+        "n_examples": 300
+      },
+      "step_1000": {
+        "accuracy": 0.3567,
+        "mean_ld": -0.4478,
+        "pct_s_preferred": 0.6433,
+        "n_examples": 300
+      },
+      "step_2000": {
+        "accuracy": 0.28,
+        "mean_ld": -1.2562,
+        "pct_s_preferred": 0.72,
+        "n_examples": 300
+      },
+      "step_3000": {
+        "accuracy": 0.5867,
+        "mean_ld": 0.5352,
+        "pct_s_preferred": 0.4133,
+        "n_examples": 300
+      },
+      "step_5000": {
+        "accuracy": 0.8067,
+        "mean_ld": 1.5713,
+        "pct_s_preferred": 0.1933,
+        "n_examples": 300
+      },
+      "step_8000": {
+        "accuracy": 0.91,
+        "mean_ld": 2.8254,
+        "pct_s_preferred": 0.09,
+        "n_examples": 300
+      },
+      "step_10000": {
+        "accuracy": 0.9567,
+        "mean_ld": 2.9443,
+        "pct_s_preferred": 0.0433,
+        "n_examples": 300
+      },
+      "step_33000": {
+        "accuracy": 0.9933,
+        "mean_ld": 3.4328,
+        "pct_s_preferred": 0.0067,
+        "n_examples": 300
+      },
+      "step_143000": {
+        "accuracy": 0.9967,
+        "mean_ld": 4.1717,
+        "pct_s_preferred": 0.0033,
+        "n_examples": 300
+      }
+    }
+  },
+  "data-seed3": {
+    "model": "EleutherAI/pythia-160m-data-seed3",
+    "checkpoints": {
+      "step_0": {
+        "accuracy": 0.5267,
+        "mean_ld": 0.0324,
+        "pct_s_preferred": 0.4733,
+        "n_examples": 300
+      },
+      "step_512": {
+        "accuracy": 0.4833,
+        "mean_ld": -0.0332,
+        "pct_s_preferred": 0.5167,
+        "n_examples": 300
+      },
+      "step_1000": {
+        "accuracy": 0.4133,
+        "mean_ld": -0.3516,
+        "pct_s_preferred": 0.5867,
+        "n_examples": 300
+      },
+      "step_2000": {
+        "accuracy": 0.3533,
+        "mean_ld": -0.7652,
+        "pct_s_preferred": 0.6467,
+        "n_examples": 300
+      },
+      "step_3000": {
+        "accuracy": 0.8333,
+        "mean_ld": 1.6732,
+        "pct_s_preferred": 0.1667,
+        "n_examples": 300
+      },
+      "step_5000": {
+        "accuracy": 0.93,
+        "mean_ld": 3.2141,
+        "pct_s_preferred": 0.07,
+        "n_examples": 300
+      },
+      "step_8000": {
+        "accuracy": 1.0,
+        "mean_ld": 4.071,
+        "pct_s_preferred": 0.0,
+        "n_examples": 300
+      },
+      "step_10000": {
+        "accuracy": 0.9867,
+        "mean_ld": 3.2111,
+        "pct_s_preferred": 0.0133,
+        "n_examples": 300
+      },
+      "step_33000": {
+        "accuracy": 1.0,
+        "mean_ld": 4.6132,
+        "pct_s_preferred": 0.0,
+        "n_examples": 300
+      },
+      "step_143000": {
+        "accuracy": 0.9567,
+        "mean_ld": 3.5736,
+        "pct_s_preferred": 0.0433,
+        "n_examples": 300
+      }
+    }
+  },
+  "weight-seed1": {
+    "model": "EleutherAI/pythia-160m-weight-seed1",
+    "checkpoints": {
+      "step_0": {
+        "accuracy": 0.5,
+        "mean_ld": 0.0068,
+        "pct_s_preferred": 0.5,
+        "n_examples": 300
+      },
+      "step_512": {
+        "accuracy": 0.4733,
+        "mean_ld": -0.0487,
+        "pct_s_preferred": 0.5267,
+        "n_examples": 300
+      },
+      "step_1000": {
+        "accuracy": 0.4267,
+        "mean_ld": -0.2727,
+        "pct_s_preferred": 0.5733,
+        "n_examples": 300
+      },
+      "step_2000": {
+        "accuracy": 0.3333,
+        "mean_ld": -0.693,
+        "pct_s_preferred": 0.6667,
+        "n_examples": 300
+      },
+      "step_3000": {
+        "accuracy": 0.6533,
+        "mean_ld": 1.0865,
+        "pct_s_preferred": 0.3467,
+        "n_examples": 300
+      },
+      "step_5000": {
+        "accuracy": 0.8867,
+        "mean_ld": 2.2791,
+        "pct_s_preferred": 0.1133,
+        "n_examples": 300
+      },
+      "step_8000": {
+        "accuracy": 0.9633,
+        "mean_ld": 3.1422,
+        "pct_s_preferred": 0.0367,
+        "n_examples": 300
+      },
+      "step_10000": {
+        "accuracy": 0.9633,
+        "mean_ld": 2.6483,
+        "pct_s_preferred": 0.0367,
+        "n_examples": 300
+      },
+      "step_33000": {
+        "accuracy": 0.9933,
+        "mean_ld": 2.8775,
+        "pct_s_preferred": 0.0067,
+        "n_examples": 300
+      },
+      "step_143000": {
+        "accuracy": 0.9967,
+        "mean_ld": 5.1321,
+        "pct_s_preferred": 0.0033,
+        "n_examples": 300
+      }
+    }
+  },
+  "weight-seed2": {
+    "model": "EleutherAI/pythia-160m-weight-seed2",
+    "checkpoints": {
+      "step_0": {
+        "accuracy": 0.5167,
+        "mean_ld": 0.0206,
+        "pct_s_preferred": 0.4833,
+        "n_examples": 300
+      },
+      "step_512": {
+        "accuracy": 0.5,
+        "mean_ld": -0.0488,
+        "pct_s_preferred": 0.5,
+        "n_examples": 300
+      },
+      "step_1000": {
+        "accuracy": 0.44,
+        "mean_ld": -0.2608,
+        "pct_s_preferred": 0.56,
+        "n_examples": 300
+      },
+      "step_2000": {
+        "accuracy": 0.3667,
+        "mean_ld": -0.5329,
+        "pct_s_preferred": 0.6333,
+        "n_examples": 300
+      },
+      "step_3000": {
+        "accuracy": 0.7167,
+        "mean_ld": 1.2352,
+        "pct_s_preferred": 0.2833,
+        "n_examples": 300
+      },
+      "step_5000": {
+        "accuracy": 0.95,
+        "mean_ld": 3.1562,
+        "pct_s_preferred": 0.05,
+        "n_examples": 300
+      },
+      "step_8000": {
+        "accuracy": 0.9933,
+        "mean_ld": 3.4995,
+        "pct_s_preferred": 0.0067,
+        "n_examples": 300
+      },
+      "step_10000": {
+        "accuracy": 0.9967,
+        "mean_ld": 3.7723,
+        "pct_s_preferred": 0.0033,
+        "n_examples": 300
+      },
+      "step_33000": {
+        "accuracy": 0.9933,
+        "mean_ld": 3.4285,
+        "pct_s_preferred": 0.0067,
+        "n_examples": 300
+      },
+      "step_143000": {
+        "accuracy": 1.0,
+        "mean_ld": 4.7142,
+        "pct_s_preferred": 0.0,
+        "n_examples": 300
+      }
+    }
+  },
+  "weight-seed3": {
+    "model": "EleutherAI/pythia-160m-weight-seed3",
+    "checkpoints": {
+      "step_0": {
+        "accuracy": 0.4967,
+        "mean_ld": 0.0232,
+        "pct_s_preferred": 0.5033,
+        "n_examples": 300
+      },
+      "step_512": {
+        "accuracy": 0.4767,
+        "mean_ld": -0.0474,
+        "pct_s_preferred": 0.5233,
+        "n_examples": 300
+      },
+      "step_1000": {
+        "accuracy": 0.3933,
+        "mean_ld": -0.2581,
+        "pct_s_preferred": 0.6067,
+        "n_examples": 300
+      },
+      "step_2000": {
+        "accuracy": 0.31,
+        "mean_ld": -0.9046,
+        "pct_s_preferred": 0.69,
+        "n_examples": 300
+      },
+      "step_3000": {
+        "accuracy": 0.7267,
+        "mean_ld": 1.5654,
+        "pct_s_preferred": 0.2733,
+        "n_examples": 300
+      },
+      "step_5000": {
+        "accuracy": 0.91,
+        "mean_ld": 3.0764,
+        "pct_s_preferred": 0.09,
+        "n_examples": 300
+      },
+      "step_8000": {
+        "accuracy": 0.9733,
+        "mean_ld": 3.5767,
+        "pct_s_preferred": 0.0267,
+        "n_examples": 300
+      },
+      "step_10000": {
+        "accuracy": 0.99,
+        "mean_ld": 3.7212,
+        "pct_s_preferred": 0.01,
+        "n_examples": 300
+      },
+      "step_33000": {
+        "accuracy": 0.9967,
+        "mean_ld": 3.9104,
+        "pct_s_preferred": 0.0033,
+        "n_examples": 300
+      },
+      "step_143000": {
+        "accuracy": 0.9967,
+        "mean_ld": 4.1155,
+        "pct_s_preferred": 0.0033,
+        "n_examples": 300
+      }
+    }
+  },
+  "total_time_seconds": 1.8
+}

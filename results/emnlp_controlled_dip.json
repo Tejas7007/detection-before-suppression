@@ -1,0 +1,650 @@
+{
+  "rate_0.0": {
+    "rate": 0.0,
+    "trajectory": [
+      {
+        "step": 0,
+        "heldout_acc": 0.5133333206176758,
+        "heldout_ld": 0.030124474316835403,
+        "indist_acc": 0.47333335876464844,
+        "indist_ld": -0.018846528604626656
+      },
+      {
+        "step": 2000,
+        "heldout_acc": 0.4266666769981384,
+        "heldout_ld": -0.3318488299846649,
+        "indist_acc": 0.4466666877269745,
+        "indist_ld": -0.23604309558868408
+      },
+      {
+        "step": 4000,
+        "heldout_acc": 0.4399999976158142,
+        "heldout_ld": -0.47936397790908813,
+        "indist_acc": 0.45000001788139343,
+        "indist_ld": -0.38498494029045105
+      },
+      {
+        "step": 6000,
+        "heldout_acc": 0.3933333456516266,
+        "heldout_ld": -0.6253754496574402,
+        "indist_acc": 0.3499999940395355,
+        "indist_ld": -0.7295700311660767
+      },
+      {
+        "step": 8000,
+        "heldout_acc": 0.3933333456516266,
+        "heldout_ld": -1.096368670463562,
+        "indist_acc": 0.3199999928474426,
+        "indist_ld": -1.0164679288864136
+      },
+      {
+        "step": 10000,
+        "heldout_acc": 0.3266666829586029,
+        "heldout_ld": -1.2732304334640503,
+        "indist_acc": 0.31333333253860474,
+        "indist_ld": -1.2002019882202148
+      },
+      {
+        "step": 12000,
+        "heldout_acc": 0.3266666829586029,
+        "heldout_ld": -1.1847599744796753,
+        "indist_acc": 0.33666667342185974,
+        "indist_ld": -1.0473911762237549
+      },
+      {
+        "step": 14000,
+        "heldout_acc": 0.4000000059604645,
+        "heldout_ld": -0.930354118347168,
+        "indist_acc": 0.3700000047683716,
+        "indist_ld": -0.7178612947463989
+      },
+      {
+        "step": 16000,
+        "heldout_acc": 0.3566666841506958,
+        "heldout_ld": -1.052444577217102,
+        "indist_acc": 0.29666668176651,
+        "indist_ld": -1.0382221937179565
+      },
+      {
+        "step": 18000,
+        "heldout_acc": 0.31333333253860474,
+        "heldout_ld": -1.4670941829681396,
+        "indist_acc": 0.27000001072883606,
+        "indist_ld": -1.3697565793991089
+      },
+      {
+        "step": 20000,
+        "heldout_acc": 0.3100000023841858,
+        "heldout_ld": -1.342090129852295,
+        "indist_acc": 0.27666667103767395,
+        "indist_ld": -1.0252944231033325
+      },
+      {
+        "step": 22000,
+        "heldout_acc": 0.3033333420753479,
+        "heldout_ld": -1.3066811561584473,
+        "indist_acc": 0.3333333432674408,
+        "indist_ld": -0.9842118620872498
+      },
+      {
+        "step": 24000,
+        "heldout_acc": 0.33000001311302185,
+        "heldout_ld": -1.0224322080612183,
+        "indist_acc": 0.30000001192092896,
+        "indist_ld": -0.905175507068634
+      },
+      {
+        "step": 26000,
+        "heldout_acc": 0.3100000023841858,
+        "heldout_ld": -1.222839593887329,
+        "indist_acc": 0.30000001192092896,
+        "indist_ld": -0.9379559755325317
+      },
+      {
+        "step": 28000,
+        "heldout_acc": 0.2433333396911621,
+        "heldout_ld": -1.7435474395751953,
+        "indist_acc": 0.2199999988079071,
+        "indist_ld": -1.4066495895385742
+      },
+      {
+        "step": 30000,
+        "heldout_acc": 0.24666666984558105,
+        "heldout_ld": -1.8231201171875,
+        "indist_acc": 0.20666667819023132,
+        "indist_ld": -1.4756656885147095
+      },
+      {
+        "step": 32000,
+        "heldout_acc": 0.30666667222976685,
+        "heldout_ld": -1.5766031742095947,
+        "indist_acc": 0.2433333396911621,
+        "indist_ld": -1.4316940307617188
+      },
+      {
+        "step": 34000,
+        "heldout_acc": 0.3100000023841858,
+        "heldout_ld": -1.4407172203063965,
+        "indist_acc": 0.22333334386348724,
+        "indist_ld": -1.3231396675109863
+      },
+      {
+        "step": 36000,
+        "heldout_acc": 0.2600000202655792,
+        "heldout_ld": -1.7227762937545776,
+        "indist_acc": 0.2133333384990692,
+        "indist_ld": -1.4968239068984985
+      },
+      {
+        "step": 38000,
+        "heldout_acc": 0.28333333134651184,
+        "heldout_ld": -1.7879234552383423,
+        "indist_acc": 0.21000000834465027,
+        "indist_ld": -1.6207795143127441
+      },
+      {
+        "step": 40000,
+        "heldout_acc": 0.28333333134651184,
+        "heldout_ld": -1.6231462955474854,
+        "indist_acc": 0.21666666865348816,
+        "indist_ld": -1.4478610754013062
+      }
+    ],
+    "config": {
+      "d_model": 512,
+      "n_layer": 8,
+      "n_head": 8,
+      "ctx": 256,
+      "batch": 32,
+      "lr": 0.0003,
+      "total_steps": 40000,
+      "protocol": "wang_heldout_names_shared_templates"
+    }
+  },
+  "rate_0.3": {
+    "rate": 0.3,
+    "trajectory": [
+      {
+        "step": 0,
+        "heldout_acc": 0.5133333206176758,
+        "heldout_ld": 0.030124474316835403,
+        "indist_acc": 0.47333335876464844,
+        "indist_ld": -0.018846528604626656
+      },
+      {
+        "step": 2000,
+        "heldout_acc": 0.6100000143051147,
+        "heldout_ld": 0.9206475019454956,
+        "indist_acc": 1.0,
+        "indist_ld": 9.998953819274902
+      },
+      {
+        "step": 4000,
+        "heldout_acc": 0.6600000262260437,
+        "heldout_ld": 1.4941703081130981,
+        "indist_acc": 1.0,
+        "indist_ld": 15.316180229187012
+      },
+      {
+        "step": 6000,
+        "heldout_acc": 0.699999988079071,
+        "heldout_ld": 2.0610458850860596,
+        "indist_acc": 1.0,
+        "indist_ld": 15.84677791595459
+      },
+      {
+        "step": 8000,
+        "heldout_acc": 0.7266666889190674,
+        "heldout_ld": 2.4652016162872314,
+        "indist_acc": 1.0,
+        "indist_ld": 16.505680084228516
+      },
+      {
+        "step": 10000,
+        "heldout_acc": 0.7800000309944153,
+        "heldout_ld": 3.636545181274414,
+        "indist_acc": 1.0,
+        "indist_ld": 17.004867553710938
+      },
+      {
+        "step": 12000,
+        "heldout_acc": 0.753333330154419,
+        "heldout_ld": 3.5004189014434814,
+        "indist_acc": 1.0,
+        "indist_ld": 16.90190315246582
+      },
+      {
+        "step": 14000,
+        "heldout_acc": 0.8033333420753479,
+        "heldout_ld": 3.873156785964966,
+        "indist_acc": 1.0,
+        "indist_ld": 17.416996002197266
+      },
+      {
+        "step": 16000,
+        "heldout_acc": 0.753333330154419,
+        "heldout_ld": 3.993598222732544,
+        "indist_acc": 1.0,
+        "indist_ld": 17.3995418548584
+      },
+      {
+        "step": 18000,
+        "heldout_acc": 0.800000011920929,
+        "heldout_ld": 4.487112998962402,
+        "indist_acc": 1.0,
+        "indist_ld": 17.296884536743164
+      },
+      {
+        "step": 20000,
+        "heldout_acc": 0.8066666722297668,
+        "heldout_ld": 4.821959972381592,
+        "indist_acc": 1.0,
+        "indist_ld": 17.191913604736328
+      },
+      {
+        "step": 22000,
+        "heldout_acc": 0.753333330154419,
+        "heldout_ld": 4.3445892333984375,
+        "indist_acc": 1.0,
+        "indist_ld": 17.094343185424805
+      },
+      {
+        "step": 24000,
+        "heldout_acc": 0.8066666722297668,
+        "heldout_ld": 5.450469017028809,
+        "indist_acc": 1.0,
+        "indist_ld": 17.286785125732422
+      },
+      {
+        "step": 26000,
+        "heldout_acc": 0.79666668176651,
+        "heldout_ld": 5.096035480499268,
+        "indist_acc": 1.0,
+        "indist_ld": 17.228168487548828
+      },
+      {
+        "step": 28000,
+        "heldout_acc": 0.7766667008399963,
+        "heldout_ld": 5.116880893707275,
+        "indist_acc": 1.0,
+        "indist_ld": 17.625280380249023
+      },
+      {
+        "step": 30000,
+        "heldout_acc": 0.7733333706855774,
+        "heldout_ld": 4.751709461212158,
+        "indist_acc": 1.0,
+        "indist_ld": 17.671737670898438
+      },
+      {
+        "step": 32000,
+        "heldout_acc": 0.7800000309944153,
+        "heldout_ld": 4.75750732421875,
+        "indist_acc": 1.0,
+        "indist_ld": 17.70497703552246
+      },
+      {
+        "step": 34000,
+        "heldout_acc": 0.7666667103767395,
+        "heldout_ld": 4.869821548461914,
+        "indist_acc": 1.0,
+        "indist_ld": 18.13484764099121
+      },
+      {
+        "step": 36000,
+        "heldout_acc": 0.7566666603088379,
+        "heldout_ld": 4.632535934448242,
+        "indist_acc": 1.0,
+        "indist_ld": 18.37083625793457
+      },
+      {
+        "step": 38000,
+        "heldout_acc": 0.7800000309944153,
+        "heldout_ld": 4.553131580352783,
+        "indist_acc": 1.0,
+        "indist_ld": 18.509429931640625
+      },
+      {
+        "step": 40000,
+        "heldout_acc": 0.7566666603088379,
+        "heldout_ld": 4.27315092086792,
+        "indist_acc": 1.0,
+        "indist_ld": 18.723426818847656
+      }
+    ],
+    "config": {
+      "d_model": 512,
+      "n_layer": 8,
+      "n_head": 8,
+      "ctx": 256,
+      "batch": 32,
+      "lr": 0.0003,
+      "total_steps": 40000,
+      "protocol": "wang_heldout_names_shared_templates"
+    }
+  },
+  "rate_0.15": {
+    "rate": 0.15,
+    "trajectory": [
+      {
+        "step": 0,
+        "heldout_acc": 0.5133333206176758,
+        "heldout_ld": 0.030124474316835403,
+        "indist_acc": 0.47333335876464844,
+        "indist_ld": -0.018846528604626656
+      },
+      {
+        "step": 2000,
+        "heldout_acc": 0.46666666865348816,
+        "heldout_ld": -0.1896773874759674,
+        "indist_acc": 0.45000001788139343,
+        "indist_ld": -0.06669508665800095
+      },
+      {
+        "step": 4000,
+        "heldout_acc": 0.7666667103767395,
+        "heldout_ld": 2.5060808658599854,
+        "indist_acc": 1.0,
+        "indist_ld": 13.019580841064453
+      },
+      {
+        "step": 6000,
+        "heldout_acc": 0.8700000047683716,
+        "heldout_ld": 3.8351099491119385,
+        "indist_acc": 1.0,
+        "indist_ld": 14.814313888549805
+      },
+      {
+        "step": 8000,
+        "heldout_acc": 0.8500000238418579,
+        "heldout_ld": 4.153739929199219,
+        "indist_acc": 1.0,
+        "indist_ld": 14.905606269836426
+      },
+      {
+        "step": 10000,
+        "heldout_acc": 0.8700000047683716,
+        "heldout_ld": 4.827895641326904,
+        "indist_acc": 1.0,
+        "indist_ld": 15.802552223205566
+      },
+      {
+        "step": 12000,
+        "heldout_acc": 0.9300000071525574,
+        "heldout_ld": 6.017856597900391,
+        "indist_acc": 1.0,
+        "indist_ld": 16.024168014526367
+      },
+      {
+        "step": 14000,
+        "heldout_acc": 0.8733333349227905,
+        "heldout_ld": 5.56965446472168,
+        "indist_acc": 1.0,
+        "indist_ld": 15.713519096374512
+      },
+      {
+        "step": 16000,
+        "heldout_acc": 0.8966667056083679,
+        "heldout_ld": 6.080813884735107,
+        "indist_acc": 1.0,
+        "indist_ld": 16.274864196777344
+      },
+      {
+        "step": 18000,
+        "heldout_acc": 0.8766666650772095,
+        "heldout_ld": 5.848782539367676,
+        "indist_acc": 1.0,
+        "indist_ld": 16.401182174682617
+      },
+      {
+        "step": 20000,
+        "heldout_acc": 0.9100000262260437,
+        "heldout_ld": 6.570260524749756,
+        "indist_acc": 1.0,
+        "indist_ld": 16.158870697021484
+      },
+      {
+        "step": 22000,
+        "heldout_acc": 0.9200000166893005,
+        "heldout_ld": 7.082796573638916,
+        "indist_acc": 1.0,
+        "indist_ld": 16.06203842163086
+      },
+      {
+        "step": 24000,
+        "heldout_acc": 0.9399999976158142,
+        "heldout_ld": 7.4468302726745605,
+        "indist_acc": 1.0,
+        "indist_ld": 15.88323974609375
+      },
+      {
+        "step": 26000,
+        "heldout_acc": 0.9399999976158142,
+        "heldout_ld": 7.349448204040527,
+        "indist_acc": 1.0,
+        "indist_ld": 15.900008201599121
+      },
+      {
+        "step": 28000,
+        "heldout_acc": 0.9366666674613953,
+        "heldout_ld": 7.075181007385254,
+        "indist_acc": 1.0,
+        "indist_ld": 15.791703224182129
+      },
+      {
+        "step": 30000,
+        "heldout_acc": 0.9466667175292969,
+        "heldout_ld": 7.649130344390869,
+        "indist_acc": 1.0,
+        "indist_ld": 15.877346992492676
+      },
+      {
+        "step": 32000,
+        "heldout_acc": 0.9233333468437195,
+        "heldout_ld": 7.21461296081543,
+        "indist_acc": 1.0,
+        "indist_ld": 15.820328712463379
+      },
+      {
+        "step": 34000,
+        "heldout_acc": 0.9166666865348816,
+        "heldout_ld": 7.015347480773926,
+        "indist_acc": 1.0,
+        "indist_ld": 15.727093696594238
+      },
+      {
+        "step": 36000,
+        "heldout_acc": 0.9433333277702332,
+        "heldout_ld": 7.740568161010742,
+        "indist_acc": 1.0,
+        "indist_ld": 15.794458389282227
+      },
+      {
+        "step": 38000,
+        "heldout_acc": 0.9066666960716248,
+        "heldout_ld": 7.494545936584473,
+        "indist_acc": 1.0,
+        "indist_ld": 15.677742958068848
+      },
+      {
+        "step": 40000,
+        "heldout_acc": 0.9100000262260437,
+        "heldout_ld": 7.473191738128662,
+        "indist_acc": 1.0,
+        "indist_ld": 15.590290069580078
+      }
+    ],
+    "config": {
+      "d_model": 512,
+      "n_layer": 8,
+      "n_head": 8,
+      "ctx": 256,
+      "batch": 32,
+      "lr": 0.0003,
+      "total_steps": 40000,
+      "protocol": "wang_heldout_names_shared_templates"
+    }
+  },
+  "rate_0.05": {
+    "rate": 0.05,
+    "trajectory": [
+      {
+        "step": 0,
+        "heldout_acc": 0.5133333206176758,
+        "heldout_ld": 0.030124474316835403,
+        "indist_acc": 0.47333335876464844,
+        "indist_ld": -0.018846528604626656
+      },
+      {
+        "step": 2000,
+        "heldout_acc": 0.4566666781902313,
+        "heldout_ld": -0.226521834731102,
+        "indist_acc": 0.5,
+        "indist_ld": 0.018865283578634262
+      },
+      {
+        "step": 4000,
+        "heldout_acc": 0.7566666603088379,
+        "heldout_ld": 2.6090610027313232,
+        "indist_acc": 1.0,
+        "indist_ld": 10.87122631072998
+      },
+      {
+        "step": 6000,
+        "heldout_acc": 0.84333336353302,
+        "heldout_ld": 4.023975372314453,
+        "indist_acc": 1.0,
+        "indist_ld": 12.403260231018066
+      },
+      {
+        "step": 8000,
+        "heldout_acc": 0.89000004529953,
+        "heldout_ld": 5.491886138916016,
+        "indist_acc": 1.0,
+        "indist_ld": 13.124916076660156
+      },
+      {
+        "step": 10000,
+        "heldout_acc": 0.8633333444595337,
+        "heldout_ld": 5.873517990112305,
+        "indist_acc": 1.0,
+        "indist_ld": 13.892865180969238
+      },
+      {
+        "step": 12000,
+        "heldout_acc": 0.8799999952316284,
+        "heldout_ld": 6.409327030181885,
+        "indist_acc": 1.0,
+        "indist_ld": 13.86179256439209
+      },
+      {
+        "step": 14000,
+        "heldout_acc": 0.9166666865348816,
+        "heldout_ld": 7.048455715179443,
+        "indist_acc": 1.0,
+        "indist_ld": 14.183683395385742
+      },
+      {
+        "step": 16000,
+        "heldout_acc": 0.8700000047683716,
+        "heldout_ld": 6.646518230438232,
+        "indist_acc": 1.0,
+        "indist_ld": 14.13184928894043
+      },
+      {
+        "step": 18000,
+        "heldout_acc": 0.9100000262260437,
+        "heldout_ld": 7.8106689453125,
+        "indist_acc": 1.0,
+        "indist_ld": 14.751047134399414
+      },
+      {
+        "step": 20000,
+        "heldout_acc": 0.9333333373069763,
+        "heldout_ld": 8.496848106384277,
+        "indist_acc": 1.0,
+        "indist_ld": 14.835542678833008
+      },
+      {
+        "step": 22000,
+        "heldout_acc": 0.9300000071525574,
+        "heldout_ld": 8.32131576538086,
+        "indist_acc": 1.0,
+        "indist_ld": 14.68288803100586
+      },
+      {
+        "step": 24000,
+        "heldout_acc": 0.8366667032241821,
+        "heldout_ld": 7.069760799407959,
+        "indist_acc": 1.0,
+        "indist_ld": 14.520599365234375
+      },
+      {
+        "step": 26000,
+        "heldout_acc": 0.9233333468437195,
+        "heldout_ld": 8.736654281616211,
+        "indist_acc": 1.0,
+        "indist_ld": 14.735136985778809
+      },
+      {
+        "step": 28000,
+        "heldout_acc": 0.9200000166893005,
+        "heldout_ld": 8.467970848083496,
+        "indist_acc": 1.0,
+        "indist_ld": 14.782200813293457
+      },
+      {
+        "step": 30000,
+        "heldout_acc": 0.9133333563804626,
+        "heldout_ld": 8.375628471374512,
+        "indist_acc": 1.0,
+        "indist_ld": 14.710840225219727
+      },
+      {
+        "step": 32000,
+        "heldout_acc": 0.9166666865348816,
+        "heldout_ld": 8.488219261169434,
+        "indist_acc": 1.0,
+        "indist_ld": 14.797597885131836
+      },
+      {
+        "step": 34000,
+        "heldout_acc": 0.893333375453949,
+        "heldout_ld": 7.973787784576416,
+        "indist_acc": 1.0,
+        "indist_ld": 14.653962135314941
+      },
+      {
+        "step": 36000,
+        "heldout_acc": 0.9100000262260437,
+        "heldout_ld": 8.16043472290039,
+        "indist_acc": 1.0,
+        "indist_ld": 14.70888900756836
+      },
+      {
+        "step": 38000,
+        "heldout_acc": 0.9133333563804626,
+        "heldout_ld": 8.703716278076172,
+        "indist_acc": 1.0,
+        "indist_ld": 14.733047485351562
+      },
+      {
+        "step": 40000,
+        "heldout_acc": 0.9033333659172058,
+        "heldout_ld": 8.421025276184082,
+        "indist_acc": 1.0,
+        "indist_ld": 14.584013938903809
+      }
+    ],
+    "config": {
+      "d_model": 512,
+      "n_layer": 8,
+      "n_head": 8,
+      "ctx": 256,
+      "batch": 32,
+      "lr": 0.0003,
+      "total_steps": 40000,
+      "protocol": "wang_heldout_names_shared_templates"
+    }
+  }
+}

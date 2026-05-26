@@ -1,0 +1,1711 @@
+{
+  "model": "stanford-crfm/alias-gpt2-small-x21",
+  "architecture": "GPT-2 Small (12L, 12H, 124M params)",
+  "part1_sweep": {
+    "step_0": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": 0.0011,
+      "std_ld": 0.8192,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 27023.5,
+      "median_s_rank": 26013.5,
+      "mean_io_prob": 1.8e-05,
+      "mean_s_prob": 1.8e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "pa",
+          "count": 33
+        },
+        {
+          "token": "691",
+          "count": 23
+        },
+        {
+          "token": "Retrieved",
+          "count": 22
+        },
+        {
+          "token": "ivities",
+          "count": 21
+        },
+        {
+          "token": "reservoir",
+          "count": 20
+        }
+      ]
+    },
+    "step_10": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": 0.0011,
+      "std_ld": 0.8192,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 27029.5,
+      "median_s_rank": 26013.5,
+      "mean_io_prob": 1.8e-05,
+      "mean_s_prob": 1.8e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "pa",
+          "count": 33
+        },
+        {
+          "token": "691",
+          "count": 24
+        },
+        {
+          "token": "ivities",
+          "count": 22
+        },
+        {
+          "token": "Retrieved",
+          "count": 22
+        },
+        {
+          "token": "reservoir",
+          "count": 20
+        }
+      ]
+    },
+    "step_20": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.0003,
+      "std_ld": 0.7034,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 25304.5,
+      "median_s_rank": 25203.0,
+      "mean_io_prob": 1.9e-05,
+      "mean_s_prob": 1.9e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": ".",
+          "count": 300
+        }
+      ]
+    },
+    "step_30": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.0016,
+      "std_ld": 0.7334,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 9002.5,
+      "median_s_rank": 9037.0,
+      "mean_io_prob": 2.9e-05,
+      "mean_s_prob": 2.9e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 300
+        }
+      ]
+    },
+    "step_40": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.001,
+      "std_ld": 0.8019,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 5500.5,
+      "median_s_rank": 5503.0,
+      "mean_io_prob": 2.3e-05,
+      "mean_s_prob": 2.3e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 300
+        }
+      ]
+    },
+    "step_50": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.0028,
+      "std_ld": 1.0575,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 5580.0,
+      "median_s_rank": 5592.5,
+      "mean_io_prob": 1.9e-05,
+      "mean_s_prob": 1.9e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 300
+        }
+      ]
+    },
+    "step_60": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.0084,
+      "std_ld": 1.1881,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 5332.0,
+      "median_s_rank": 5247.5,
+      "mean_io_prob": 2.7e-05,
+      "mean_s_prob": 2.8e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 276
+        },
+        {
+          "token": "be",
+          "count": 24
+        }
+      ]
+    },
+    "step_70": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.0088,
+      "std_ld": 1.2219,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 5606.0,
+      "median_s_rank": 5558.0,
+      "mean_io_prob": 2.8e-05,
+      "mean_s_prob": 2.8e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "be",
+          "count": 193
+        },
+        {
+          "token": "the",
+          "count": 107
+        }
+      ]
+    },
+    "step_80": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.0065,
+      "std_ld": 1.3259,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 4621.0,
+      "median_s_rank": 4589.5,
+      "mean_io_prob": 3.3e-05,
+      "mean_s_prob": 3.4e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 234
+        },
+        {
+          "token": "be",
+          "count": 66
+        }
+      ]
+    },
+    "step_90": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.0107,
+      "std_ld": 1.1175,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 4698.0,
+      "median_s_rank": 4750.0,
+      "mean_io_prob": 2.8e-05,
+      "mean_s_prob": 2.9e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 300
+        }
+      ]
+    },
+    "step_100": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.0076,
+      "std_ld": 1.1956,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 5686.5,
+      "median_s_rank": 5634.0,
+      "mean_io_prob": 2e-05,
+      "mean_s_prob": 2e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 300
+        }
+      ]
+    },
+    "step_150": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.0164,
+      "std_ld": 1.3318,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 5582.0,
+      "median_s_rank": 5547.5,
+      "mean_io_prob": 1.5e-05,
+      "mean_s_prob": 1.5e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 287
+        },
+        {
+          "token": "be",
+          "count": 13
+        }
+      ]
+    },
+    "step_200": {
+      "n_examples": 300,
+      "accuracy": 0.5,
+      "mean_ld": -0.0413,
+      "std_ld": 1.3504,
+      "pct_s_preferred": 0.5,
+      "median_io_rank": 2957.0,
+      "median_s_rank": 2862.5,
+      "mean_io_prob": 2.8e-05,
+      "mean_s_prob": 2.8e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 284
+        },
+        {
+          "token": "be",
+          "count": 16
+        }
+      ]
+    },
+    "step_250": {
+      "n_examples": 300,
+      "accuracy": 0.4567,
+      "mean_ld": -0.0656,
+      "std_ld": 1.294,
+      "pct_s_preferred": 0.5433,
+      "median_io_rank": 2591.0,
+      "median_s_rank": 2504.0,
+      "mean_io_prob": 2.6e-05,
+      "mean_s_prob": 2.7e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 265
+        },
+        {
+          "token": "be",
+          "count": 35
+        }
+      ]
+    },
+    "step_300": {
+      "n_examples": 300,
+      "accuracy": 0.47,
+      "mean_ld": -0.0874,
+      "std_ld": 1.0615,
+      "pct_s_preferred": 0.53,
+      "median_io_rank": 2913.0,
+      "median_s_rank": 2734.5,
+      "mean_io_prob": 2.5e-05,
+      "mean_s_prob": 2.6e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "be",
+          "count": 153
+        },
+        {
+          "token": "the",
+          "count": 147
+        }
+      ]
+    },
+    "step_400": {
+      "n_examples": 300,
+      "accuracy": 0.4567,
+      "mean_ld": -0.1335,
+      "std_ld": 0.9366,
+      "pct_s_preferred": 0.5433,
+      "median_io_rank": 2575.0,
+      "median_s_rank": 2391.5,
+      "mean_io_prob": 3.7e-05,
+      "mean_s_prob": 4.1e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 209
+        },
+        {
+          "token": "be",
+          "count": 91
+        }
+      ]
+    },
+    "step_500": {
+      "n_examples": 300,
+      "accuracy": 0.4333,
+      "mean_ld": -0.1982,
+      "std_ld": 1.1443,
+      "pct_s_preferred": 0.5667,
+      "median_io_rank": 1566.5,
+      "median_s_rank": 1340.0,
+      "mean_io_prob": 6.6e-05,
+      "mean_s_prob": 7.8e-05,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 212
+        },
+        {
+          "token": "be",
+          "count": 88
+        }
+      ]
+    },
+    "step_600": {
+      "n_examples": 300,
+      "accuracy": 0.46,
+      "mean_ld": -0.2639,
+      "std_ld": 0.9938,
+      "pct_s_preferred": 0.54,
+      "median_io_rank": 1189.0,
+      "median_s_rank": 1060.0,
+      "mean_io_prob": 9.6e-05,
+      "mean_s_prob": 0.000125,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 249
+        },
+        {
+          "token": "be",
+          "count": 48
+        },
+        {
+          "token": "see",
+          "count": 3
+        }
+      ]
+    },
+    "step_700": {
+      "n_examples": 300,
+      "accuracy": 0.4233,
+      "mean_ld": -0.4042,
+      "std_ld": 1.2857,
+      "pct_s_preferred": 0.5767,
+      "median_io_rank": 858.5,
+      "median_s_rank": 604.0,
+      "mean_io_prob": 0.000156,
+      "mean_s_prob": 0.000231,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 262
+        },
+        {
+          "token": "me",
+          "count": 34
+        },
+        {
+          "token": "her",
+          "count": 4
+        }
+      ]
+    },
+    "step_800": {
+      "n_examples": 300,
+      "accuracy": 0.4567,
+      "mean_ld": -0.5132,
+      "std_ld": 1.2816,
+      "pct_s_preferred": 0.5433,
+      "median_io_rank": 258.5,
+      "median_s_rank": 166.0,
+      "mean_io_prob": 0.000454,
+      "mean_s_prob": 0.000704,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 258
+        },
+        {
+          "token": "me",
+          "count": 34
+        },
+        {
+          "token": "her",
+          "count": 4
+        },
+        {
+          "token": "him",
+          "count": 4
+        }
+      ]
+    },
+    "step_900": {
+      "n_examples": 300,
+      "accuracy": 0.3433,
+      "mean_ld": -0.5841,
+      "std_ld": 1.2536,
+      "pct_s_preferred": 0.6567,
+      "median_io_rank": 174.5,
+      "median_s_rank": 88.0,
+      "mean_io_prob": 0.000609,
+      "mean_s_prob": 0.001106,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 262
+        },
+        {
+          "token": "me",
+          "count": 29
+        },
+        {
+          "token": "her",
+          "count": 9
+        }
+      ]
+    },
+    "step_1000": {
+      "n_examples": 300,
+      "accuracy": 0.3,
+      "mean_ld": -0.805,
+      "std_ld": 1.2697,
+      "pct_s_preferred": 0.7,
+      "median_io_rank": 157.5,
+      "median_s_rank": 59.0,
+      "mean_io_prob": 0.000678,
+      "mean_s_prob": 0.001543,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 251
+        },
+        {
+          "token": "me",
+          "count": 40
+        },
+        {
+          "token": "her",
+          "count": 9
+        }
+      ]
+    },
+    "step_1100": {
+      "n_examples": 300,
+      "accuracy": 0.1833,
+      "mean_ld": -0.966,
+      "std_ld": 0.9939,
+      "pct_s_preferred": 0.8167,
+      "median_io_rank": 115.0,
+      "median_s_rank": 39.0,
+      "mean_io_prob": 0.000922,
+      "mean_s_prob": 0.00251,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 227
+        },
+        {
+          "token": "me",
+          "count": 38
+        },
+        {
+          "token": "her",
+          "count": 35
+        }
+      ]
+    },
+    "step_1200": {
+      "n_examples": 300,
+      "accuracy": 0.2233,
+      "mean_ld": -1.0201,
+      "std_ld": 1.1209,
+      "pct_s_preferred": 0.7767,
+      "median_io_rank": 143.0,
+      "median_s_rank": 40.0,
+      "mean_io_prob": 0.00097,
+      "mean_s_prob": 0.002623,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 252
+        },
+        {
+          "token": "me",
+          "count": 38
+        },
+        {
+          "token": "her",
+          "count": 10
+        }
+      ]
+    },
+    "step_1500": {
+      "n_examples": 300,
+      "accuracy": 0.1033,
+      "mean_ld": -1.4053,
+      "std_ld": 1.1726,
+      "pct_s_preferred": 0.8967,
+      "median_io_rank": 118.0,
+      "median_s_rank": 24.5,
+      "mean_io_prob": 0.001423,
+      "mean_s_prob": 0.006918,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 258
+        },
+        {
+          "token": "me",
+          "count": 24
+        },
+        {
+          "token": "her",
+          "count": 9
+        },
+        {
+          "token": "him",
+          "count": 9
+        }
+      ]
+    },
+    "step_2000": {
+      "n_examples": 300,
+      "accuracy": 0.16,
+      "mean_ld": -1.1668,
+      "std_ld": 1.2108,
+      "pct_s_preferred": 0.84,
+      "median_io_rank": 92.0,
+      "median_s_rank": 24.0,
+      "mean_io_prob": 0.002387,
+      "mean_s_prob": 0.007478,
+      "pct_io_top1": 0.0,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 1.0,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 232
+        },
+        {
+          "token": "him",
+          "count": 34
+        },
+        {
+          "token": "her",
+          "count": 24
+        },
+        {
+          "token": "me",
+          "count": 10
+        }
+      ]
+    },
+    "step_2500": {
+      "n_examples": 300,
+      "accuracy": 0.1567,
+      "mean_ld": -1.2252,
+      "std_ld": 1.3243,
+      "pct_s_preferred": 0.8433,
+      "median_io_rank": 52.0,
+      "median_s_rank": 13.0,
+      "mean_io_prob": 0.006163,
+      "mean_s_prob": 0.013466,
+      "pct_io_top1": 0.0033,
+      "pct_s_top1": 0.0033,
+      "pct_other_top1": 0.9933,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 233
+        },
+        {
+          "token": "her",
+          "count": 26
+        },
+        {
+          "token": "me",
+          "count": 21
+        },
+        {
+          "token": "him",
+          "count": 13
+        },
+        {
+          "token": "them",
+          "count": 5
+        }
+      ]
+    },
+    "step_3000": {
+      "n_examples": 300,
+      "accuracy": 0.26,
+      "mean_ld": -0.8201,
+      "std_ld": 1.5113,
+      "pct_s_preferred": 0.74,
+      "median_io_rank": 11.0,
+      "median_s_rank": 6.0,
+      "mean_io_prob": 0.02221,
+      "mean_s_prob": 0.028471,
+      "pct_io_top1": 0.0333,
+      "pct_s_top1": 0.0167,
+      "pct_other_top1": 0.95,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 209
+        },
+        {
+          "token": "him",
+          "count": 31
+        },
+        {
+          "token": "her",
+          "count": 22
+        },
+        {
+          "token": "me",
+          "count": 20
+        },
+        {
+          "token": "his",
+          "count": 2
+        }
+      ]
+    },
+    "step_4000": {
+      "n_examples": 300,
+      "accuracy": 0.3333,
+      "mean_ld": -0.5992,
+      "std_ld": 1.278,
+      "pct_s_preferred": 0.6667,
+      "median_io_rank": 15.0,
+      "median_s_rank": 9.0,
+      "mean_io_prob": 0.015518,
+      "mean_s_prob": 0.021856,
+      "pct_io_top1": 0.01,
+      "pct_s_top1": 0.02,
+      "pct_other_top1": 0.97,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 239
+        },
+        {
+          "token": "her",
+          "count": 26
+        },
+        {
+          "token": "them",
+          "count": 14
+        },
+        {
+          "token": "his",
+          "count": 6
+        },
+        {
+          "token": "me",
+          "count": 4
+        }
+      ]
+    },
+    "step_5000": {
+      "n_examples": 300,
+      "accuracy": 0.31,
+      "mean_ld": -0.7492,
+      "std_ld": 1.3838,
+      "pct_s_preferred": 0.69,
+      "median_io_rank": 13.0,
+      "median_s_rank": 7.0,
+      "mean_io_prob": 0.020709,
+      "mean_s_prob": 0.032649,
+      "pct_io_top1": 0.01,
+      "pct_s_top1": 0.0433,
+      "pct_other_top1": 0.9467,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 184
+        },
+        {
+          "token": "him",
+          "count": 44
+        },
+        {
+          "token": "her",
+          "count": 41
+        },
+        {
+          "token": "his",
+          "count": 9
+        },
+        {
+          "token": "them",
+          "count": 5
+        }
+      ]
+    },
+    "step_8000": {
+      "n_examples": 300,
+      "accuracy": 0.5233,
+      "mean_ld": -0.0208,
+      "std_ld": 1.3894,
+      "pct_s_preferred": 0.4767,
+      "median_io_rank": 4.0,
+      "median_s_rank": 5.0,
+      "mean_io_prob": 0.07169,
+      "mean_s_prob": 0.064786,
+      "pct_io_top1": 0.1667,
+      "pct_s_top1": 0.0933,
+      "pct_other_top1": 0.74,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 139
+        },
+        {
+          "token": "her",
+          "count": 33
+        },
+        {
+          "token": "him",
+          "count": 25
+        },
+        {
+          "token": "them",
+          "count": 18
+        },
+        {
+          "token": "his",
+          "count": 5
+        }
+      ]
+    },
+    "step_10000": {
+      "n_examples": 300,
+      "accuracy": 0.5933,
+      "mean_ld": 0.4681,
+      "std_ld": 1.476,
+      "pct_s_preferred": 0.4067,
+      "median_io_rank": 2.0,
+      "median_s_rank": 4.0,
+      "mean_io_prob": 0.127083,
+      "mean_s_prob": 0.075436,
+      "pct_io_top1": 0.2767,
+      "pct_s_top1": 0.1333,
+      "pct_other_top1": 0.59,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 121
+        },
+        {
+          "token": "him",
+          "count": 24
+        },
+        {
+          "token": "them",
+          "count": 18
+        },
+        {
+          "token": "her",
+          "count": 8
+        },
+        {
+          "token": "his",
+          "count": 6
+        }
+      ]
+    },
+    "step_20000": {
+      "n_examples": 300,
+      "accuracy": 0.98,
+      "mean_ld": 2.9538,
+      "std_ld": 1.4191,
+      "pct_s_preferred": 0.02,
+      "median_io_rank": 0.0,
+      "median_s_rank": 6.0,
+      "mean_io_prob": 0.384086,
+      "mean_s_prob": 0.025063,
+      "pct_io_top1": 0.77,
+      "pct_s_top1": 0.0033,
+      "pct_other_top1": 0.2267,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 61
+        },
+        {
+          "token": "his",
+          "count": 4
+        },
+        {
+          "token": "them",
+          "count": 2
+        },
+        {
+          "token": "me",
+          "count": 1
+        }
+      ]
+    },
+    "step_50000": {
+      "n_examples": 300,
+      "accuracy": 1.0,
+      "mean_ld": 3.8707,
+      "std_ld": 1.7076,
+      "pct_s_preferred": 0.0,
+      "median_io_rank": 0.0,
+      "median_s_rank": 7.0,
+      "mean_io_prob": 0.480807,
+      "mean_s_prob": 0.019383,
+      "pct_io_top1": 0.84,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 0.16,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 39
+        },
+        {
+          "token": "me",
+          "count": 3
+        },
+        {
+          "token": "her",
+          "count": 3
+        },
+        {
+          "token": "his",
+          "count": 3
+        }
+      ]
+    },
+    "step_100000": {
+      "n_examples": 300,
+      "accuracy": 0.9733,
+      "mean_ld": 3.3084,
+      "std_ld": 1.6506,
+      "pct_s_preferred": 0.0267,
+      "median_io_rank": 0.0,
+      "median_s_rank": 5.5,
+      "mean_io_prob": 0.455853,
+      "mean_s_prob": 0.021513,
+      "pct_io_top1": 0.7667,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 0.2333,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 59
+        },
+        {
+          "token": "them",
+          "count": 10
+        },
+        {
+          "token": "me",
+          "count": 1
+        }
+      ]
+    },
+    "step_200000": {
+      "n_examples": 300,
+      "accuracy": 1.0,
+      "mean_ld": 3.3766,
+      "std_ld": 1.4379,
+      "pct_s_preferred": 0.0,
+      "median_io_rank": 0.0,
+      "median_s_rank": 5.0,
+      "mean_io_prob": 0.435344,
+      "mean_s_prob": 0.021341,
+      "pct_io_top1": 0.8033,
+      "pct_s_top1": 0.0,
+      "pct_other_top1": 0.1967,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 48
+        },
+        {
+          "token": "them",
+          "count": 6
+        },
+        {
+          "token": "his",
+          "count": 4
+        },
+        {
+          "token": "him",
+          "count": 1
+        }
+      ]
+    },
+    "step_400000": {
+      "n_examples": 300,
+      "accuracy": 0.9967,
+      "mean_ld": 3.4303,
+      "std_ld": 1.3738,
+      "pct_s_preferred": 0.0033,
+      "median_io_rank": 0.0,
+      "median_s_rank": 6.0,
+      "mean_io_prob": 0.413351,
+      "mean_s_prob": 0.020838,
+      "pct_io_top1": 0.8167,
+      "pct_s_top1": 0.0033,
+      "pct_other_top1": 0.18,
+      "top_other": [
+        {
+          "token": "the",
+          "count": 49
+        },
+        {
+          "token": "them",
+          "count": 3
+        },
+        {
+          "token": "his",
+          "count": 2
+        }
+      ]
+    }
+  },
+  "part2_mechanism": {
+    "step_0": {
+      "base_accuracy": 0.5,
+      "top_head": "L0H4",
+      "top_head_delta": -0.01,
+      "top_5_heads": [
+        {
+          "head": "L0H4",
+          "delta": -0.01
+        },
+        {
+          "head": "L1H9",
+          "delta": -0.01
+        },
+        {
+          "head": "L2H0",
+          "delta": -0.01
+        },
+        {
+          "head": "L2H3",
+          "delta": -0.01
+        },
+        {
+          "head": "L3H0",
+          "delta": -0.01
+        }
+      ],
+      "bottom_5_heads": [
+        {
+          "head": "L1H7",
+          "delta": 0.015
+        },
+        {
+          "head": "L3H8",
+          "delta": 0.015
+        },
+        {
+          "head": "L5H11",
+          "delta": 0.015
+        },
+        {
+          "head": "L8H9",
+          "delta": 0.015
+        },
+        {
+          "head": "L0H0",
+          "delta": 0.02
+        }
+      ],
+      "top_head_attention": {
+        "to_IO": 0.0516,
+        "to_S1": 0.0515,
+        "to_S2": 0.0522
+      },
+      "top_head_projection": {
+        "mean_io": -0.0007,
+        "mean_s": -0.0007,
+        "io_minus_s": 0.0001
+      }
+    },
+    "step_100": {
+      "base_accuracy": 0.5,
+      "top_head": "L0H0",
+      "top_head_delta": 0.0,
+      "top_5_heads": [
+        {
+          "head": "L0H0",
+          "delta": 0.0
+        },
+        {
+          "head": "L0H1",
+          "delta": 0.0
+        },
+        {
+          "head": "L0H2",
+          "delta": 0.0
+        },
+        {
+          "head": "L0H3",
+          "delta": 0.0
+        },
+        {
+          "head": "L0H4",
+          "delta": 0.0
+        }
+      ],
+      "bottom_5_heads": [
+        {
+          "head": "L11H7",
+          "delta": 0.0
+        },
+        {
+          "head": "L11H8",
+          "delta": 0.0
+        },
+        {
+          "head": "L11H9",
+          "delta": 0.0
+        },
+        {
+          "head": "L11H10",
+          "delta": 0.0
+        },
+        {
+          "head": "L11H11",
+          "delta": 0.0
+        }
+      ],
+      "top_head_attention": {
+        "to_IO": 0.041,
+        "to_S1": 0.0523,
+        "to_S2": 0.047
+      },
+      "top_head_projection": {
+        "mean_io": 0.0005,
+        "mean_s": 0.0007,
+        "io_minus_s": -0.0002
+      }
+    },
+    "step_500": {
+      "base_accuracy": 0.44,
+      "top_head": "L0H10",
+      "top_head_delta": -0.03,
+      "top_5_heads": [
+        {
+          "head": "L0H10",
+          "delta": -0.03
+        },
+        {
+          "head": "L0H11",
+          "delta": -0.02
+        },
+        {
+          "head": "L0H3",
+          "delta": -0.015
+        },
+        {
+          "head": "L0H5",
+          "delta": -0.015
+        },
+        {
+          "head": "L1H2",
+          "delta": -0.015
+        }
+      ],
+      "bottom_5_heads": [
+        {
+          "head": "L0H1",
+          "delta": 0.015
+        },
+        {
+          "head": "L0H4",
+          "delta": 0.015
+        },
+        {
+          "head": "L0H7",
+          "delta": 0.015
+        },
+        {
+          "head": "L6H3",
+          "delta": 0.015
+        },
+        {
+          "head": "L7H2",
+          "delta": 0.015
+        }
+      ],
+      "top_head_attention": {
+        "to_IO": 0.0643,
+        "to_S1": 0.0482,
+        "to_S2": 0.0536
+      },
+      "top_head_projection": {
+        "mean_io": 0.0009,
+        "mean_s": 0.0011,
+        "io_minus_s": -0.0002
+      }
+    },
+    "step_1000": {
+      "base_accuracy": 0.3,
+      "top_head": "L7H3",
+      "top_head_delta": -0.02,
+      "top_5_heads": [
+        {
+          "head": "L7H3",
+          "delta": -0.02
+        },
+        {
+          "head": "L0H10",
+          "delta": -0.015
+        },
+        {
+          "head": "L1H6",
+          "delta": -0.015
+        },
+        {
+          "head": "L0H2",
+          "delta": -0.01
+        },
+        {
+          "head": "L0H3",
+          "delta": -0.01
+        }
+      ],
+      "bottom_5_heads": [
+        {
+          "head": "L10H4",
+          "delta": 0.015
+        },
+        {
+          "head": "L10H8",
+          "delta": 0.015
+        },
+        {
+          "head": "L7H11",
+          "delta": 0.02
+        },
+        {
+          "head": "L8H8",
+          "delta": 0.03
+        },
+        {
+          "head": "L9H5",
+          "delta": 0.075
+        }
+      ],
+      "top_head_attention": {
+        "to_IO": 0.006,
+        "to_S1": 0.0075,
+        "to_S2": 0.1057
+      },
+      "top_head_projection": {
+        "mean_io": 0.0055,
+        "mean_s": 0.0073,
+        "io_minus_s": -0.0018
+      }
+    },
+    "step_2000": {
+      "base_accuracy": 0.135,
+      "top_head": "L7H8",
+      "top_head_delta": -0.075,
+      "top_5_heads": [
+        {
+          "head": "L7H8",
+          "delta": -0.075
+        },
+        {
+          "head": "L7H5",
+          "delta": -0.04
+        },
+        {
+          "head": "L10H6",
+          "delta": -0.04
+        },
+        {
+          "head": "L1H5",
+          "delta": -0.025
+        },
+        {
+          "head": "L10H4",
+          "delta": -0.025
+        }
+      ],
+      "bottom_5_heads": [
+        {
+          "head": "L10H11",
+          "delta": 0.035
+        },
+        {
+          "head": "L4H8",
+          "delta": 0.04
+        },
+        {
+          "head": "L7H4",
+          "delta": 0.04
+        },
+        {
+          "head": "L8H8",
+          "delta": 0.05
+        },
+        {
+          "head": "L9H1",
+          "delta": 0.065
+        }
+      ],
+      "top_head_attention": {
+        "to_IO": 0.013,
+        "to_S1": 0.0021,
+        "to_S2": 0.0093
+      },
+      "top_head_projection": {
+        "mean_io": 0.0749,
+        "mean_s": 0.0628,
+        "io_minus_s": 0.0121
+      }
+    },
+    "step_3000": {
+      "base_accuracy": 0.165,
+      "top_head": "L10H4",
+      "top_head_delta": -0.07,
+      "top_5_heads": [
+        {
+          "head": "L10H4",
+          "delta": -0.07
+        },
+        {
+          "head": "L1H5",
+          "delta": -0.01
+        },
+        {
+          "head": "L1H11",
+          "delta": -0.01
+        },
+        {
+          "head": "L4H8",
+          "delta": -0.01
+        },
+        {
+          "head": "L6H0",
+          "delta": -0.01
+        }
+      ],
+      "bottom_5_heads": [
+        {
+          "head": "L6H9",
+          "delta": 0.04
+        },
+        {
+          "head": "L9H5",
+          "delta": 0.04
+        },
+        {
+          "head": "L6H3",
+          "delta": 0.045
+        },
+        {
+          "head": "L10H7",
+          "delta": 0.055
+        },
+        {
+          "head": "L10H11",
+          "delta": 0.06
+        }
+      ],
+      "top_head_attention": {
+        "to_IO": 0.3657,
+        "to_S1": 0.1885,
+        "to_S2": 0.0307
+      },
+      "top_head_projection": {
+        "mean_io": 1.238,
+        "mean_s": 0.9042,
+        "io_minus_s": 0.3338
+      }
+    },
+    "step_5000": {
+      "base_accuracy": 0.285,
+      "top_head": "L1H5",
+      "top_head_delta": -0.07,
+      "top_5_heads": [
+        {
+          "head": "L1H5",
+          "delta": -0.07
+        },
+        {
+          "head": "L7H3",
+          "delta": -0.05
+        },
+        {
+          "head": "L6H5",
+          "delta": -0.045
+        },
+        {
+          "head": "L10H6",
+          "delta": -0.045
+        },
+        {
+          "head": "L1H11",
+          "delta": -0.04
+        }
+      ],
+      "bottom_5_heads": [
+        {
+          "head": "L7H8",
+          "delta": 0.035
+        },
+        {
+          "head": "L11H6",
+          "delta": 0.035
+        },
+        {
+          "head": "L6H9",
+          "delta": 0.045
+        },
+        {
+          "head": "L8H1",
+          "delta": 0.07
+        },
+        {
+          "head": "L10H11",
+          "delta": 0.11
+        }
+      ],
+      "top_head_attention": {
+        "to_IO": 0.0048,
+        "to_S1": 0.0083,
+        "to_S2": 0.0012
+      },
+      "top_head_projection": {
+        "mean_io": -0.0018,
+        "mean_s": -0.0016,
+        "io_minus_s": -0.0003
+      }
+    },
+    "step_10000": {
+      "base_accuracy": 0.585,
+      "top_head": "L1H11",
+      "top_head_delta": -0.115,
+      "top_5_heads": [
+        {
+          "head": "L1H11",
+          "delta": -0.115
+        },
+        {
+          "head": "L7H4",
+          "delta": -0.105
+        },
+        {
+          "head": "L7H0",
+          "delta": -0.095
+        },
+        {
+          "head": "L7H9",
+          "delta": -0.09
+        },
+        {
+          "head": "L8H4",
+          "delta": -0.08
+        }
+      ],
+      "bottom_5_heads": [
+        {
+          "head": "L10H6",
+          "delta": 0.03
+        },
+        {
+          "head": "L8H1",
+          "delta": 0.035
+        },
+        {
+          "head": "L5H0",
+          "delta": 0.05
+        },
+        {
+          "head": "L7H8",
+          "delta": 0.06
+        },
+        {
+          "head": "L0H11",
+          "delta": 0.09
+        }
+      ],
+      "top_head_attention": {
+        "to_IO": 0.0181,
+        "to_S1": 0.0248,
+        "to_S2": 0.0071
+      },
+      "top_head_projection": {
+        "mean_io": 0.0466,
+        "mean_s": 0.0465,
+        "io_minus_s": 0.0002
+      }
+    },
+    "step_100000": {
+      "base_accuracy": 0.975,
+      "top_head": "L10H10",
+      "top_head_delta": -0.09,
+      "top_5_heads": [
+        {
+          "head": "L10H10",
+          "delta": -0.09
+        },
+        {
+          "head": "L8H4",
+          "delta": -0.08
+        },
+        {
+          "head": "L6H2",
+          "delta": -0.045
+        },
+        {
+          "head": "L3H6",
+          "delta": -0.03
+        },
+        {
+          "head": "L6H0",
+          "delta": -0.025
+        }
+      ],
+      "bottom_5_heads": [
+        {
+          "head": "L5H2",
+          "delta": 0.015
+        },
+        {
+          "head": "L11H4",
+          "delta": 0.015
+        },
+        {
+          "head": "L4H8",
+          "delta": 0.02
+        },
+        {
+          "head": "L6H1",
+          "delta": 0.02
+        },
+        {
+          "head": "L11H9",
+          "delta": 0.02
+        }
+      ],
+      "top_head_attention": {
+        "to_IO": 0.0555,
+        "to_S1": 0.0519,
+        "to_S2": 0.589
+      },
+      "top_head_projection": {
+        "mean_io": -0.0389,
+        "mean_s": -6.2787,
+        "io_minus_s": 6.2399
+      }
+    },
+    "step_400000": {
+      "base_accuracy": 0.995,
+      "top_head": "L10H10",
+      "top_head_delta": -0.085,
+      "top_5_heads": [
+        {
+          "head": "L10H10",
+          "delta": -0.085
+        },
+        {
+          "head": "L8H4",
+          "delta": -0.035
+        },
+        {
+          "head": "L7H11",
+          "delta": -0.025
+        },
+        {
+          "head": "L0H0",
+          "delta": 0.0
+        },
+        {
+          "head": "L0H1",
+          "delta": 0.0
+        }
+      ],
+      "bottom_5_heads": [
+        {
+          "head": "L11H9",
+          "delta": 0.0
+        },
+        {
+          "head": "L11H10",
+          "delta": 0.0
+        },
+        {
+          "head": "L5H7",
+          "delta": 0.005
+        },
+        {
+          "head": "L9H0",
+          "delta": 0.005
+        },
+        {
+          "head": "L11H11",
+          "delta": 0.005
+        }
+      ],
+      "top_head_attention": {
+        "to_IO": 0.0528,
+        "to_S1": 0.0372,
+        "to_S2": 0.5787
+      },
+      "top_head_projection": {
+        "mean_io": -0.0458,
+        "mean_s": -1.9349,
+        "io_minus_s": 1.8891
+      }
+    }
+  },
+  "part3_second_seed": {
+    "step_0": {
+      "model": "stanford-crfm/battlestar-gpt2-small-x49",
+      "accuracy": 0.4967,
+      "mean_ld": 0.0037,
+      "pct_s_preferred": 0.5033,
+      "n_examples": 300
+    },
+    "step_100": {
+      "model": "stanford-crfm/battlestar-gpt2-small-x49",
+      "accuracy": 0.4967,
+      "mean_ld": -0.0104,
+      "pct_s_preferred": 0.5033,
+      "n_examples": 300
+    },
+    "step_500": {
+      "model": "stanford-crfm/battlestar-gpt2-small-x49",
+      "accuracy": 0.4167,
+      "mean_ld": -0.2488,
+      "pct_s_preferred": 0.5833,
+      "n_examples": 300
+    },
+    "step_1000": {
+      "model": "stanford-crfm/battlestar-gpt2-small-x49",
+      "accuracy": 0.25,
+      "mean_ld": -0.9167,
+      "pct_s_preferred": 0.75,
+      "n_examples": 300
+    },
+    "step_2000": {
+      "model": "stanford-crfm/battlestar-gpt2-small-x49",
+      "accuracy": 0.1167,
+      "mean_ld": -1.7829,
+      "pct_s_preferred": 0.8833,
+      "n_examples": 300
+    },
+    "step_3000": {
+      "model": "stanford-crfm/battlestar-gpt2-small-x49",
+      "accuracy": 0.3167,
+      "mean_ld": -0.9036,
+      "pct_s_preferred": 0.6833,
+      "n_examples": 300
+    },
+    "step_5000": {
+      "model": "stanford-crfm/battlestar-gpt2-small-x49",
+      "accuracy": 0.5133,
+      "mean_ld": 0.0897,
+      "pct_s_preferred": 0.4867,
+      "n_examples": 300
+    },
+    "step_10000": {
+      "model": "stanford-crfm/battlestar-gpt2-small-x49",
+      "accuracy": 0.6767,
+      "mean_ld": 0.4909,
+      "pct_s_preferred": 0.3233,
+      "n_examples": 300
+    },
+    "step_100000": {
+      "model": "stanford-crfm/battlestar-gpt2-small-x49",
+      "accuracy": 1.0,
+      "mean_ld": 3.7641,
+      "pct_s_preferred": 0.0,
+      "n_examples": 300
+    },
+    "step_400000": {
+      "model": "stanford-crfm/battlestar-gpt2-small-x49",
+      "accuracy": 0.9833,
+      "mean_ld": 3.8015,
+      "pct_s_preferred": 0.0167,
+      "n_examples": 300
+    }
+  },
+  "total_time_seconds": 1582.9
+}
